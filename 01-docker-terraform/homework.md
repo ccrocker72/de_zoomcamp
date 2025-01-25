@@ -1,5 +1,4 @@
 # Module 1 Homework: Docker & SQL
-
 In this homework we'll prepare the environment and practice
 Docker and SQL
 
@@ -144,11 +143,7 @@ Which of the following sequences, **respectively**, describes the workflow for:
 3. Remove all resources managed by terraform`
 
 Answers:
-- terraform import, terraform apply -y, terraform destroy
-- teraform init, terraform plan -auto-apply, terraform rm
-- terraform init, terraform run -auto-approve, terraform destroy
 - terraform init, terraform apply -auto-approve, terraform destroy
-- terraform import, terraform apply -y, terraform rm
 
 
 ## Submitting the solutions
